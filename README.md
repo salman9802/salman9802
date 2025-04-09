@@ -28,13 +28,13 @@
 
 ## Connect with me
 
-<a href="https://t.me/Storm_Fortress" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/Storm_Fortress" style="display:inline-block;" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="Telegram" width="26" height="26" style="padding-right:10;" src="./icons/telegram.png" style="padding-right:10;" />
 </a>
-<a href="https://discord.com/users/deathcome_" target="_blank" rel="noopener noreferrer">
+<a href="https://discord.com/users/deathcome_" style="display:inline-block;" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="Discord" width="26" height="26" style="padding-right:10;" src="./icons/discord.png" style="padding-right:10;" />
 </a>
-<a href="http://www.linkedin.com/in/salman9802" target="_blank" rel="noopener noreferrer">
+<a href="http://www.linkedin.com/in/salman9802" style="display:inline-block;" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="Linkedin" width="26" height="26" style="padding-right:10;" src="./icons/linkedin.png" style="padding-right:10;" />
 </a>
 
