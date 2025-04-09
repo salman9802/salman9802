@@ -4,7 +4,9 @@
 - 🌱 I'm currently learning **Django**
 - 💬 Ask me about Web Development
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsalman9802.github.io/Portfolio)](https://salman9802.github.io/Portfolio)
+<a href="https://salman9802.github.io/Portfolio" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+<img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsalman9802.github.io/Portfolio" />
+</a>
 
 # Languages, Frameworks and Tools
 
