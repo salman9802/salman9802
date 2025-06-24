@@ -1,8 +1,8 @@
 # Hello, I'm Salman
 
-- ✨ I'm a passionate full stack developer with a focus on creating dynamic, user-friendly web applications.
-- 🌱 I'm currently learning **Django**
-- 💬 Ask me about Web Development
+✨ I'm a passionate MERN stack developer with a focus on creating dynamic, user-friendly web applications. With expertise in MongoDB, Express.js, React, and Node.js, I build scalable, high-performance solutions tailored to meet client needs. My work emphasizes clean code, responsive design, and seamless user experiences.
+
+From front-end interfaces that engage users to robust back-end systems that handle data efficiently, I combine creativity with technical expertise to deliver full-stack applications that are both functional and intuitive. I take pride in problem-solving and optimizing performance, ensuring that every project not only meets but exceeds expectations.
 
 <a href="https://salman9802.github.io/Portfolio" target="_blank" rel="noopener noreferrer" style="display: block;">
 <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsalman9802.github.io/Portfolio" />
