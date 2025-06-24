@@ -4,9 +4,17 @@
 - 🌱 I'm currently learning **Django**
 - 💬 Ask me about Web Development
 
-<a href="https://salman9802.github.io/Portfolio" target="_blank" rel="noopener noreferrer" style="display: inline-block;">
+<a href="https://salman9802.github.io/Portfolio" target="_blank" rel="noopener noreferrer" style="display: block;">
 <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsalman9802.github.io/Portfolio" />
 </a>
+
+<br />
+<img style="display:block;" src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-success?style=for-the-badge&logo=github" />
+<img style="display:block;" src="https://img.shields.io/badge/Actively%20looking-Yes-blue?style=for-the-badge" />
+
+<br />
+<img style="display:block;" src="https://img.shields.io/badge/Currently%20Learning-Django-informational?style=for-the-badge&logo=django&logoColor=white">
+<img style="display:block;" src="https://img.shields.io/badge/Interested%20in-Web%20Technologies-orange?style=for-the-badge">
 
 # Languages, Frameworks and Tools
 
